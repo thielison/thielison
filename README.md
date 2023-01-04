@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Thiélison 👋</h2>
 
-- 👨‍🎓 I'm currently pursuing my Bachelor's Degree in Information Systems at Universidade Estácio de Sá
-- 🌱 I'm also learning Java and JavaScript with help from Udemy
+- 👨‍🎓 Bachelor's Degree in Information Systems at Universidade Estácio de Sá
+- 🌱 Learning HTML, CSS and JavaScript with help from The Odin Project and Udemy.
 
 <p align="center">
 <!--LINKEDIN--><a href="https://www.linkedin.com/in/thielison" alt="linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <!--INSTAGRAM--> <a href="https://www.instagram.com/thielison/" alt="instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
