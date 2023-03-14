@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Thiélison 👋</h2>
 
 <p align="center">
-👨‍🎓 Bachelor's Degree in Information Systems at Universidade Estácio de Sá<br>
+👨‍🎓 Bachelor's Degree in Information Systems at Estácio de Sá University<br>
 🌱 Learning HTML, CSS and JavaScript with help from The Odin Project and Udemy.
 </p>
 
