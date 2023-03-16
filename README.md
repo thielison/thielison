@@ -1,7 +1,7 @@
 <h2 align="center">Hello, I'm Thiélison 👋</h2>
 
 <p align="center">
-  I'm a self-taught Full Stack Developer with a Bachelor's Degree in Information Systems from Estácio de Sá University. Currently, I'm dedicated to exploring the vast world of Web Development and expanding my knowledge in HTML, CSS, and JavaScript through <a href="https://www.theodinproject.com">The Odin Project</a>.</p>
+ I'm a self-taught Full Stack Developer with a Bachelor's Degree in Information Systems from Estácio de Sá University. Currently, I'm dedicated to exploring the vast world of Web Development and expanding my knowledge in HTML, CSS, and JavaScript through <a href="https://www.theodinproject.com">The Odin Project</a>.</p>
 
 <p align="center">
 🔭 I'm currently focusing on improving my skills in front-end development, specifically in creating responsive and accessible web pages.</p>
